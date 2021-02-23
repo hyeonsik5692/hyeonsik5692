@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- Gradient
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
+
+
 <!--
 **hyeonsik5692/hyeonsik5692** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
